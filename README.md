@@ -55,4 +55,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 Thank you for checking out **MoviedbAngular**! If you have any questions or suggestions, feel free to open an issue or contact me.
 
 Best regards,  
-Joana D'Angeles
+Thiago Marques
